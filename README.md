@@ -156,6 +156,8 @@ may be required to improve forecasting accuracy.
 
 ### 🖥 Streamlit Dashboard
 
+🌐 Live Streamlit Dashboard- https://supply-chain-management-ekc4yppk9eyb8tefw4ha6z.streamlit.app/
+
 An interactive dashboard was built using Streamlit that includes:
 
 - Key Performance Indicators (KPIs)
@@ -212,5 +214,6 @@ http://localhost:8501
 **Bibek Kumar Majhi**
 
 Data Analytics & Machine Learning Enthusiast
+
 
 
