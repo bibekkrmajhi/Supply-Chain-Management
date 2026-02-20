@@ -38,7 +38,7 @@ This project aims to:
 
 ✔ Provide business insights for inventory optimization
 
-📊 Dataset Description
+### 📊 Dataset Description
 
 The dataset contains supply chain information from a fashion & beauty startup.
 
@@ -212,3 +212,4 @@ http://localhost:8501
 ***Bibek Kumar Majhi**
 
 Data Analytics & Machine Learning Enthusiast
+
