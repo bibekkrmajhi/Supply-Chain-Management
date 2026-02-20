@@ -209,7 +209,8 @@ http://localhost:8501
 
 ### 👤 Author
 
-***Bibek Kumar Majhi**
+**Bibek Kumar Majhi**
 
 Data Analytics & Machine Learning Enthusiast
+
 
