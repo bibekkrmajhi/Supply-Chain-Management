@@ -31,8 +31,11 @@ In supply chain management, poor demand estimation can lead to:
 This project aims to:
 
 ✔ Analyze supply chain data
+
 ✔ Identify key influencing factors
+
 ✔ Build predictive models for demand forecasting
+
 ✔ Provide business insights for inventory optimization
 
 📊 Dataset Description
@@ -207,4 +210,5 @@ http://localhost:8501
 ### 👤 Author
 
 ***Bibek Kumar Majhi**
+
 Data Analytics & Machine Learning Enthusiast
