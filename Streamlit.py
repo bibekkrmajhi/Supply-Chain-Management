@@ -16,7 +16,7 @@ st.set_page_config(
 # -----------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("supply_chain_data.csv")
+    return pd.read_csv("data/supply_chain_data.csv")
 
 df = load_data()
 
@@ -228,4 +228,5 @@ with col2:
     )
     ax.set_ylabel("")
     st.pyplot(fig)
+
 
